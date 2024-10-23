@@ -6,7 +6,7 @@ This is the Nexus Framework, combining ancient philosophical wisdom with cutting
 
 1. Clone the repository:
     ```
-    git clone <your-repo-url>
+    git clone https://github.com/redx94/nexus-framework
     ```
 
 2. Run the application using Docker Compose:
