@@ -1,0 +1,10 @@
+{
+  "name": "nexus-framework",
+  "version": "1.0.0",
+  "description": "Nexus Framework for AI and Quantum Computing",
+  "scripts": {
+    "install-all": "npm install --prefix frontend && pip install -r backend/requirements.txt",
+    "start": "node start.js"
+  },
+  "dependencies": {}
+}
